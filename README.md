@@ -1,6 +1,6 @@
-# TicTocToe by Flutter
+# TicTocToe by Flutter with sound null safety
 
-The Flutter App of TicTocToe Game.
+The Flutter App of TicTocToe Game
 
 # Build
 
@@ -8,6 +8,6 @@ The Flutter App of TicTocToe Game.
     
     2. flutter run
 
-![Preview](https://Mouhcine-Flutter.github.io/images/demo_tictoctoe.gif)
+![Preview]<div><img style="width:300px;" src="https://Mouhcine-Flutter.github.io/images/demo_tictoctoe.gif"></div>
 
 
