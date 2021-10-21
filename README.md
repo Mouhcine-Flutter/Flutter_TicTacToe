@@ -10,6 +10,8 @@ sound null safety :white_check_mark:
     
     2. flutter run
 
-![Preview]<div><img style="width:300px;" src="https://Mouhcine-Flutter.github.io/images/demo_tictoctoe.gif"></div>
+# Demo 
+
+<div><img style="width:300px;" src="https://Mouhcine-Flutter.github.io/images/demo_tictoctoe.gif"></div>
 
 
