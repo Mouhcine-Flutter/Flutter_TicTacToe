@@ -167,7 +167,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        appBar: AppBar(title: Text('Tic Toc Toe'), backgroundColor: Colors.grey[700],),
+        appBar: AppBar(title: Text('Tic Tac Toe'), backgroundColor: Colors.grey[700],),
         floatingActionButton: FloatingActionButton.extended(
           onPressed: (){
             resetGame();
