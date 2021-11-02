@@ -1,6 +1,6 @@
-# TicTocToe by Flutter 
+# TicTacToe by Flutter 
 
-The Flutter App of TicTocToe Game 
+The Flutter App of TicTacToe Game 
 
 sound null safety :white_check_mark:
 
